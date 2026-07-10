@@ -11,6 +11,6 @@ I do **AI/ML** — training models, wrangling data, and occasionally yelling at 
 <img src="https://media.giphy.com/media/R1kBIohO2aQJVQaD4w/giphy.gif" width="300" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitnoug/ankitnoug/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ankitnoug/ankitnoug/output/github-contribution-grid-snake.svg" />
 </picture>
