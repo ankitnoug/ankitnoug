@@ -1,4 +1,4 @@
-# Hey, I'm YOUR_NAME 👋
+# Hey, I'm ANKITNOUG 👋
 
 I do **AI/ML** — training models, wrangling data, and occasionally yelling at my GPU.
 
@@ -17,5 +17,4 @@ currently_training: neural nets
 success_rate: "loss go down (sometimes)"
 ```
 
----
-📫 Reach me: YOUR_EMAIL · YOUR_LINKEDIN
+
