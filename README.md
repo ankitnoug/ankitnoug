@@ -5,10 +5,7 @@ I do **AI/ML** — training models, wrangling data, and occasionally yelling at 
 ### 🛠️ Stack
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit_learn,jupyter,git" />
 
-### 🐱 Me debugging my model at 2am
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
-
-<img src="https://media.giphy.com/media/R1kBIohO2aQJVQaD4w/giphy.gif" width="300" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitnoug/ankitnoug/output/github-contribution-grid-snake-dark.svg" />
