@@ -7,11 +7,6 @@ I do **AI/ML** — training models, wrangling data, and occasionally yelling at 
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitnoug/ankitnoug/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ankitnoug/ankitnoug/output/github-contribution-grid-snake.svg" />
-</picture>
-
 🎧 What I'm listening to right now
 
 <p align="center">
