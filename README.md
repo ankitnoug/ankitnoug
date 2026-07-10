@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:1a1a1a&height=200&section=header&text=YOUR_NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%7C%20ULTRAKILL%20enjoyer&descAlignY=55&descSize=20" width="100%"/>
-
 # Hey, I'm ANKITNOUG 👋
 
 I do **AI/ML** — training models, wrangling data, and occasionally yelling at my GPU.
