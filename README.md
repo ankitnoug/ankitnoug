@@ -14,4 +14,8 @@ I do **AI/ML** — training models, wrangling data, and occasionally yelling at 
 
 🎧 What I'm listening to right now
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=bdh236zgmfc6ysd3k4ryt1lh5&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" width="350" />
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=bdh236zgmfc6ysd3k4ryt1lh5&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bdh236zgmfc6ysd3k4ryt1lh5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=d133c4" width="350" />
+  </a>
+</p>
